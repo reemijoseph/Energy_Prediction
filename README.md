@@ -17,4 +17,5 @@
 #### Renewables (% equivalent primary energy): Percentage of primary energy
 #### Latitude : Latitude of the places in degrees.
 
+#### Conclusion
 #### This project successfully developed a machine learning model to predict global energy consumption patterns by leveraging diverse economic, environmental, and energy-related indicators. The methodology involved extensive data preprocessing, including handling missing values, feature selection, encoding categorical variables, and scaling numerical attributes. The model was trained using various machine learning techniques and evaluated for predictive accuracy, providing meaningful insights into energy usage trends.
