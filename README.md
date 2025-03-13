@@ -1,4 +1,4 @@
-# Energy_Prediction
+## Energy_Prediction
 ### PROBLEM STATEMENT
 #### The rising demand for energy, coupled with the global shift toward sustainable resources, presents a critical need for accurate forecasting of energy consumption. This project aims to create a machine learning model that can predict energy consumption using various global indicators. The goal is to support informed decisions on energy planning and sustainable resource management.
 
