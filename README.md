@@ -10,8 +10,7 @@
 
 #### Dataset : The dataset contains 3,649 rows and 21 columns, representing various global energy and economic indicators. Here’s an overview of some key columns:
 
-#### Entity:
-#### The country or region being described.
+#### Entity:The country or region being described.
 #### Year: Year of the record. 
 #### Access to electricity (% of population): Percentage of the population with access to electricity.
 #### Access to clean fuels for cooking : Percentage of the population with access to clean cooking solutions.
