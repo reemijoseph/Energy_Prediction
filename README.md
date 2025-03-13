@@ -11,16 +11,11 @@
 #### Dataset : The dataset contains 3,649 rows and 21 columns, representing various global energy and economic indicators. Here’s an overview of some key columns:
 
 #### Entity:The country or region being described.
-#### Year: Year of the record. 
-#### Access to electricity (% of population): Percentage of the population with access to electricity.
-#### Access to clean fuels for cooking : Percentage of the population with access to clean cooking solutions.
-#### Renewable-electricity-generating-capacity-per-capita : The renewable electricity generating capacity per person.
 #### Renewable energy share in the total final energy consumption (%) : Percentage of energy from renewable sources in the total consumption.
-#### Electricity from fossil fuels (TWh) : Total electricity generated from fossil fuels.
-#### Electricity from renewables (TWh) : Total electricity generated from renewable sources. 
 #### Primary energy consumption per capita (kWh/person): Average energy consumption per capita. 
 #### gdp_growth: GDP growth rate. 
-#### gdp_per_capita: GDP per capita.
+#### Renewables (% equivalent primary energy): Percentage of primary energy
+#### Latitude : Latitude of the places in degrees.
 
 #### This project successfully developed a machine learning model to predict global energy consumption patterns by leveraging diverse economic, environmental, and energy-related indicators. The methodology involved extensive data preprocessing, including handling missing values, feature selection, encoding categorical variables, and scaling numerical attributes. The model was trained using various machine learning techniques and evaluated for predictive accuracy, providing meaningful insights into energy usage trends.
 
